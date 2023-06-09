@@ -20,7 +20,7 @@ public class Calculator {
         sum.d = 200;
         System.out.println("Average of A and B is "+ ((avg.a+avg.b)/2));
         System.out.println("The New Average is "+ avg.d);
-        Calculator.d=24356;
+        Calculator.d=24356; // understanding
 
         System.out.println(d);
         //System.out.println(a);
