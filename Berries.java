@@ -8,9 +8,7 @@ class Berries{
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter the number");
         int n = sc.nextInt();
-        int d = 3 * n;
-        int n1  = 5 * n; 
-        
+   
         for (int i = 1; i <= n; i++ ){
             //if(i == d)
                // {
