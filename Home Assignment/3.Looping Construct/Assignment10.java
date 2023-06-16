@@ -1,4 +1,4 @@
-//
+//WAP to print Fibonacci series.
 import java.util.Scanner;
 class Assignment10
 {
