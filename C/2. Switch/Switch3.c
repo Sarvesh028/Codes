@@ -38,6 +38,7 @@ int main()
         {
             printf(" %lf is Smaller than %lf", num2, num1);
         }
+        break;
     case '>':
         if (num1 > num2)
         {
@@ -47,6 +48,7 @@ int main()
         {
             printf(" %lf is Greater than %lf", num2, num1);
         }
+        break;
     default:
         printf("Invalid Details");
     }
