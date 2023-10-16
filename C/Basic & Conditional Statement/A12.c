@@ -13,8 +13,8 @@ int main()
     }
     else
     {
-        n=n+5-(n%5);
-        printf("%d The number is not divisible By 5 ",n);
+        n = n + 5 - (n % 5);
+        printf("%d The number is divisible By 5 ", n);
     }
     return 0;
 }

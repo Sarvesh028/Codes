@@ -7,13 +7,13 @@ int main()
     int n;
     printf("Enter the year = ");
     scanf("%d", &n);
-    if (n % 4==0)
+    if (n % 4 == 0)
     {
         printf("This year is a leap Year %d", n);
     }
     else
     {
-        printf("This is is not a leap year %d", n);
+        printf("This year is not a leap year %d", n);
     }
     return 0;
 }
